@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Agile Infinitesmal
 
-For Org Mode, Cut the Markdown Flavor BS.
+For Org Mode, Cut Off The Markdown Flavor BS.
 ======
